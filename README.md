@@ -1,8 +1,8 @@
-* Solutions
+# Solutions
 
 Based on version 3.2.
 
-** Progress
+## Progress
 
 * ✓ Basics
 * ✓ Induction
